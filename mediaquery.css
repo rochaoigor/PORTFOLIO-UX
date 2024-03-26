@@ -1,5 +1,5 @@
 @media only screen and (max-width: 768px) {
-    .container {
+    .container-section {
         display:flex;
         flex-direction:column;
         padding:12px;
