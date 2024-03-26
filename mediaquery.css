@@ -33,5 +33,16 @@
     font-size:1.325rem;
   }
 
-
+ .projetos {
+  
+        flex-direction:column;
+        padding:12px;
+ }
+.container-card{
+  flex-direction:column;
+}
+ .card-2 {
+  font-size:0.525rem;
+  width:52%;
+ }
 }
